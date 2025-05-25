@@ -1,4 +1,4 @@
-# Insurance Premium Optimization via Simulation Modeling
+# Insurance premium optimization via simulation modeling
 
 ## Project Overview
 
